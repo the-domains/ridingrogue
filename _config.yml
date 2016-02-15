@@ -1,0 +1,28 @@
+name: RidingRogue
+favicon: null
+layout_spectrum: 0.812700322130695
+typography_spectrum: 0.6925285854376853
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6471527370158583
+  lightness: 0.3914956790395081
+  saturation: 0.9640344779472798
+  rhythmicContrast: 0.6425078462343663
+purpose: []
